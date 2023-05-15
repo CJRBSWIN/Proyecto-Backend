@@ -15,6 +15,20 @@ const routes = require('./routes')
 
 app.use(routes(db))
 
+app.get("/", (req, res) =>{
+    res.send("Hello World!");
+});
+
+app.post("/register", (req, res) => {
+const payload = req.body;
+
+    try {
+        await 
+    } catch (error){
+        console.log(error);
+    }
+});
+
 app.use((req, res, next) => {
     next(errors[404])
 })

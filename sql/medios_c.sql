@@ -1,5 +1,4 @@
 CREATE TABLE Medios_de_Comunicación (
-    id SERIAL PRIMARY KEY,
     redes_sociales TEXT NOT NULL,
     tematíca TEXT NOT NULL
 );
@@ -19,7 +18,7 @@ INSERT INTO Medios_de_Comunicación(
 INSERT INTO Medios_de_Comunicación(
     redes_sociales, tematíca
 ) VALUES ( 
-    'Podcast', 'Habitos Saludables'
+    'Podcast', 'Hábitos Saludables'
 );
 
 INSERT INTO Medios_de_Comunicación(

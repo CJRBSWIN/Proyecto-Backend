@@ -6,54 +6,54 @@ CREATE TABLE Divulgadores (
 INSERT INTO Divulgadores(
     Enfoque, Followers
 ) VALUES ( 
-    'Habitos saludables', 182.000
+    'Hábitos saludables, Hábitos ancestrales, Salud femenina, Medicina', 182.000
 );
 
 INSERT INTO Divulgadores(
     Enfoque, Followers
 ) VALUES (
-    'Habitos saludables', 114.000
+    'Hábitos saludables, Salud femenina, Medicina', 114.000
 );
 
 INSERT INTO Divulgadores(
     Enfoque, Followers
 ) VALUES ( 
-    'Habitos ancestrales', 54.300
+    'Hábitos ancestrales', 54.300
 );
 
 INSERT INTO Divulgadores(
     Enfoque, Followers
 ) VALUES ( 
-    'Salud femenina, Habitos saludables', 53.700
+    'Salud femenina, Hábitos saludables', 53.700
 );
 
 INSERT INTO Divulgadores(
     Enfoque, Followers
 ) VALUES ( 
-    'Habitos saludables', 24.700
+    'Hábitos saludables, Salud femenina, Medicina', 24.700
 );
 
 INSERT INTO Divulgadores(
     Enfoque, Followers
 ) VALUES ( 
-    'Habitos saludables', 64.700
+    'Hábitos saludables', 64.700
 );
 INSERT INTO Divulgadores(
     Enfoque, Followers
 ) VALUES ( 
-    'Medicina, Habitos saludables', 424.000
-);
-
-INSERT INTO Divulgadores(
-    Enfoque, Followers
-) VALUES ( 
-    'Habitos ancestrales', 220.000
+    'Medicina, Hábitos saludables', 424.000
 );
 
 INSERT INTO Divulgadores(
     Enfoque, Followers
 ) VALUES ( 
-    'Medicina, Habitos saludables', 1.500000
+    'Hábitos ancestrales', 220.000
+);
+
+INSERT INTO Divulgadores(
+    Enfoque, Followers
+) VALUES ( 
+    'Medicina, Hábitos saludables', 1.500000
 ); 
 
 INSERT INTO Divulgadores(

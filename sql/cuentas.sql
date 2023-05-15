@@ -1,4 +1,5 @@
 CREATE TABLE Cuentas (
+    id SERIAL PRIMARY KEY,
     Name TEXT NOT NULL,
     Web TEXT 
 );
